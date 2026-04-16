@@ -23,7 +23,7 @@ python path/to/app.py
 
 ---
 
-Alternatively, you can download the built app here: [Download the built app here](https://drive.google.com/drive/folders/19tDd9EWS1t0NZT61THWQt0jeQ0U1z5va?usp=sharing) and run App.exe
+Alternatively, you can download the built app here: (https://drive.google.com/drive/folders/1N4_b5NjFDvr01jKEMzQQYaWjiT2FdDed?usp=sharing) and run App.exe
 
 ## Interface Overview
 
